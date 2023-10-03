@@ -1,0 +1,17 @@
+C:\Users\trindadegab\source\repos\Ex Pesquisador de Arquivos\Ex Pesquisador de Arquivos\bin\Debug\net6.0-windows\Ex Pesquisador de Arquivos.exe
+C:\Users\trindadegab\source\repos\Ex Pesquisador de Arquivos\Ex Pesquisador de Arquivos\bin\Debug\net6.0-windows\Ex Pesquisador de Arquivos.deps.json
+C:\Users\trindadegab\source\repos\Ex Pesquisador de Arquivos\Ex Pesquisador de Arquivos\bin\Debug\net6.0-windows\Ex Pesquisador de Arquivos.runtimeconfig.json
+C:\Users\trindadegab\source\repos\Ex Pesquisador de Arquivos\Ex Pesquisador de Arquivos\bin\Debug\net6.0-windows\Ex Pesquisador de Arquivos.dll
+C:\Users\trindadegab\source\repos\Ex Pesquisador de Arquivos\Ex Pesquisador de Arquivos\bin\Debug\net6.0-windows\ref\Ex Pesquisador de Arquivos.dll
+C:\Users\trindadegab\source\repos\Ex Pesquisador de Arquivos\Ex Pesquisador de Arquivos\bin\Debug\net6.0-windows\Ex Pesquisador de Arquivos.pdb
+C:\Users\trindadegab\source\repos\Ex Pesquisador de Arquivos\Ex Pesquisador de Arquivos\obj\Debug\net6.0-windows\Ex Pesquisador de Arquivos.csproj.AssemblyReference.cache
+C:\Users\trindadegab\source\repos\Ex Pesquisador de Arquivos\Ex Pesquisador de Arquivos\obj\Debug\net6.0-windows\Ex_Pesquisador_de_Arquivos.Form1.resources
+C:\Users\trindadegab\source\repos\Ex Pesquisador de Arquivos\Ex Pesquisador de Arquivos\obj\Debug\net6.0-windows\Ex Pesquisador de Arquivos.csproj.GenerateResource.cache
+C:\Users\trindadegab\source\repos\Ex Pesquisador de Arquivos\Ex Pesquisador de Arquivos\obj\Debug\net6.0-windows\Ex Pesquisador de Arquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trindadegab\source\repos\Ex Pesquisador de Arquivos\Ex Pesquisador de Arquivos\obj\Debug\net6.0-windows\Ex Pesquisador de Arquivos.AssemblyInfoInputs.cache
+C:\Users\trindadegab\source\repos\Ex Pesquisador de Arquivos\Ex Pesquisador de Arquivos\obj\Debug\net6.0-windows\Ex Pesquisador de Arquivos.AssemblyInfo.cs
+C:\Users\trindadegab\source\repos\Ex Pesquisador de Arquivos\Ex Pesquisador de Arquivos\obj\Debug\net6.0-windows\Ex Pesquisador de Arquivos.csproj.CoreCompileInputs.cache
+C:\Users\trindadegab\source\repos\Ex Pesquisador de Arquivos\Ex Pesquisador de Arquivos\obj\Debug\net6.0-windows\Ex Pesquisador de Arquivos.dll
+C:\Users\trindadegab\source\repos\Ex Pesquisador de Arquivos\Ex Pesquisador de Arquivos\obj\Debug\net6.0-windows\ref\Ex Pesquisador de Arquivos.dll
+C:\Users\trindadegab\source\repos\Ex Pesquisador de Arquivos\Ex Pesquisador de Arquivos\obj\Debug\net6.0-windows\Ex Pesquisador de Arquivos.pdb
+C:\Users\trindadegab\source\repos\Ex Pesquisador de Arquivos\Ex Pesquisador de Arquivos\obj\Debug\net6.0-windows\Ex Pesquisador de Arquivos.genruntimeconfig.cache
